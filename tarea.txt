@@ -31,6 +31,27 @@
     (a - b)² = a² - 2ab + b²
     (4ax)²-2(4ax)(1)+1²
     Resultado= 16a²x²-8ax +1
-
+//continuo
 7.(x⁵-3ay⁵)²
-//vuelvo a las 2 bb y continuo
+    (a - b)² = a² - 2ab + b²
+    (x⁵)² - 2 (x⁵) (3ay⁵) + (3ay⁵)²
+    x¹⁰ - 6x⁵ay⁵ + (3)²(a)²(y⁵)² 
+    Resultado= x¹⁰ - 6x⁵ay⁵ + 9a²y¹⁰
+
+8.(10xᵐ-9xy⁵)²
+    (10xᵐ)² - 2(10xᵐ)(9xy⁵) + (9xy⁵)²
+    Resultado=10xᵐ*² - 180xᵐ⁺¹y⁵ + 18x²y¹⁰
+
+
+//SEGUNDO PUNTO BB 
+
+1. 5a² + a
+    Resultado=a(5a+1)
+
+2. m²+2mx+x²=>
+    Resultado=(m+x)²
+
+3. 9x² - 6xy + y²
+    3² x² -2 3xy + y²
+    3x² - 2 3xy + y²
+    Resultado=(3x+y)²

@@ -1,12 +1,25 @@
-1.(m + 3)^2
-    (a + b) ^2 = a^2 + 2ab + b^2
-    =m^2+2(m)(3)+3^2
-    Resultado=m^2+6m+9
+1.(m + 3)²
+    (a + b)² = a² + 2ab + b²
+    =m²+2(m)(3)+3²
+    Resultado=m²+6m+9
     verificacion(https://www.wolframalpha.com/input?i=%28m%2B3%29%5E2)
     //revisa las que dice expanded form
 
-2.(2y + 3y)^2
+2.(2y + 3y)²
     
-    (2y + 3y)^2 = (25y)^2
-    Resultado = 25y^2 
+    (2y + 3y)² = (25y)²
+    Resultado = 25y²
+    verificacion(https://www.wolframalpha.com/input?i=%282y+%2B+3y%29%5E2)
+
+3.(4m⁵ + 5n⁶)²
+    (a + b)² = a² + 2ab + b²
+    (4m⁵ + 5n⁶)²= (4m⁵)² + 2(4m⁵)(5n⁶) + (5n⁶)²
+    =>
+    (4²) (m⁵)² + 40m⁵n^6 + (5²)(n⁶)²
+    16m¹⁰ + 40m⁵n⁶ + 25n¹²
+
+4.(aᵐ+aⁿ)²
+    (aᵐ)² (aⁿ)²
+    Resultado=aᵐ*²⁺ⁿ*²
+
 

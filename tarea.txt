@@ -27,4 +27,10 @@
     a² - 2(a)(3) + 3²
     Resultado= a² - 6a + 9
 
+6.(4ax - 1)²
+    (a - b)² = a² - 2ab + b²
+    (4ax)²-2(4ax)(1)+1²
+    Resultado= 16a²x²-8ax +1
 
+7.(x⁵-3ay⁵)²
+//vuelvo a las 2 bb y continuo

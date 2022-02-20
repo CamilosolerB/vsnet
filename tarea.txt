@@ -22,4 +22,9 @@
     (aᵐ)² (aⁿ)²
     Resultado=aᵐ*²⁺ⁿ*²
 
+5.(a-3)²
+    (a - b)² = a² - 2ab + b²
+    a² - 2(a)(3) + 3²
+    Resultado= a² - 6a + 9
+
 

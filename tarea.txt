@@ -46,12 +46,46 @@
 //SEGUNDO PUNTO BB 
 
 1. 5a² + a
+
     Resultado=a(5a+1)
 
-2. m²+2mx+x²=>
+2. m²+2mx+x²
+
     Resultado=(m+x)²
 
 3. 9x² - 6xy + y²
+
     3² x² -2 3xy + y²
     3x² - 2 3xy + y²
     Resultado=(3x+y)²
+
+4. 27³ - 1 = 
+    (27)(27)(27)-1
+    19,683-1
+    Resultado=19,682
+
+5. 8a²b + 16a³b - 24a²b²
+
+    //este no entendi como se factorizaba amor
+
+    Resultado=8a²b*(1+2a+3b)
+
+6. y²- 4y + 3
+
+    Resultado=(y-1)(y-3)
+
+7. 28 + a² - 11a
+
+    a² - 11a + 28
+    Resultado=(a-4)(a-7)
+
+8. a² + 2a - 35
+
+    Resultado=(a+7)(a-5)
+
+9. 2x² + 3x - 2
+
+    2*(2x² + 3x - 2)/2
+    4x² + 6(2x) - 4/2
+    (2x)²+ 6(2x) -4/2
+    
